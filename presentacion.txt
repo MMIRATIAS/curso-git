@@ -1,0 +1,26 @@
+git --version
+Ver si Git está instalado y qué versión tiene
+git config --global user.name "nombre"
+Guardar tu nombre en Git
+git config --global user.email "correo"
+Guardar tu correo en Git
+git config --global init.defaultBranch main
+Llamar main a la rama principal
+git config --global core.editor "code --wait"
+Usar VS Code como editor de Git
+
+git config --global --list
+Ver toda la configuración guardada
+pwd
+Ver en qué carpeta estás
+cd ..
+Subir una carpeta
+cd C:\ejercicios
+Ir directo a una carpetals
+Ver lo que hay en la carpeta
+code .
+Abrir la carpeta actual en VS Code
+Ctrl + C
+Cancelar un comando que se quedó esperando (>>)
+Ctrl + S (en VS Code)
+Guardar el archivo
