@@ -1,0 +1,3 @@
+ ?? dia02, significa que Git ve algo nuevo que todavía no conoce.       
+A dia02/colores.txt, significa que el archivo está listo para guardarse en el próximo commit.
+M dia02/colores.txt, significa que un archivo que Git ya conocía cambió.
