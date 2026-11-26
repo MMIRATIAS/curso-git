@@ -1,0 +1,4 @@
+M dia03/semana/lunes.txt     
+M= git conoce y se modifico
+?? dia03/semana/miercoles.txt 
+?? git no conoce aun no tiene git add ni git commit
